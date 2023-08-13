@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/signi_IN.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/Update.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/connection/ConnectionDB.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/ForgetPassword.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/service/Adminservice.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/service/ViewSerivice.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/Delete.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/Signup.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/VIEW.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/Admin.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/service/ServiceLogin.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/WelcomePage.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/thank_you.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/resident.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/service/DeleteService.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/view/AddDetails.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/service/UpdateService.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/service/SignupService.java</file>
+            <file>file:/D:/NetBeans-17/JTManagement/src/service/ForgetPasswordservice.java</file>
+        </group>
+    </open-files>
+</project-private>
